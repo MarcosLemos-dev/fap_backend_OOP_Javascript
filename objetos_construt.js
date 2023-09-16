@@ -11,6 +11,14 @@ algum repositório e compartilhe o link no campo ao lado para que outros
 desenvolvedores possam analisá-lo
 
 */
+/*
+Instruções
+Usando a linguagem Javascript, crie uma classe e insira, no mínimo, dois atributos
+nela. No código, utilize o método acessor .get() e o método modificador .set().
+Trabalhe esse código em seu IDE ou no Bloco de Notas, e compartilhe o link no
+campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+*/
 
 class Carro{
   constructor(marca, modelo, ano, dono) {
